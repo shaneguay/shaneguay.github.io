@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.5525faff.chunk.css",
-    "main.js": "/static/js/main.12e49928.chunk.js",
-    "main.js.map": "/static/js/main.12e49928.chunk.js.map",
+    "main.js": "/static/js/main.532a518b.chunk.js",
+    "main.js.map": "/static/js/main.532a518b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1f5347da.js",
     "runtime-main.js.map": "/static/js/runtime-main.1f5347da.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.11d00f45.chunk.js": "/static/js/2.11d00f45.chunk.js",
-    "static/js/2.11d00f45.chunk.js.map": "/static/js/2.11d00f45.chunk.js.map",
+    "static/js/2.6d7e784f.chunk.js": "/static/js/2.6d7e784f.chunk.js",
+    "static/js/2.6d7e784f.chunk.js.map": "/static/js/2.6d7e784f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d3505c50d45aa52155a2a6a8c1ecdf9.js": "/precache-manifest.1d3505c50d45aa52155a2a6a8c1ecdf9.js",
+    "precache-manifest.332179dc8975886151eb83cc74b1c9e1.js": "/precache-manifest.332179dc8975886151eb83cc74b1c9e1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5525faff.chunk.css.map": "/static/css/main.5525faff.chunk.css.map",
-    "static/js/2.11d00f45.chunk.js.LICENSE": "/static/js/2.11d00f45.chunk.js.LICENSE",
+    "static/js/2.6d7e784f.chunk.js.LICENSE": "/static/js/2.6d7e784f.chunk.js.LICENSE",
     "static/media/Houndstooth.png": "/static/media/Houndstooth.7c0de86d.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.a8a11736.ttf",
     "static/media/jujuNoNameBanner.png": "/static/media/jujuNoNameBanner.3c498b0a.png",
     "static/media/juju_fern_white.png": "/static/media/juju_fern_white.7f796742.png",
     "static/media/penButtonFocus.png": "/static/media/penButtonFocus.1180167a.png",
+    "static/media/penelopeBanner.png": "/static/media/penelopeBanner.d9d5345d.png",
     "static/media/tweed_logo.png": "/static/media/tweed_logo.e900130e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1f5347da.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.11d00f45.chunk.js",
+    "static/js/2.6d7e784f.chunk.js",
     "static/css/main.5525faff.chunk.css",
-    "static/js/main.12e49928.chunk.js"
+    "static/js/main.532a518b.chunk.js"
   ]
 }

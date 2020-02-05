@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81158ca8480486202a71927a755637e0",
+    "revision": "7a619644bada457906fc5682bbb7611f",
     "url": "/index.html"
   },
   {
-    "revision": "9b2f4e722376a0255fa0",
+    "revision": "dad1d675b31f619e1dbd",
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "0faa556edbae25717d08",
+    "revision": "4dd9ac02e377cac69874",
     "url": "/static/css/main.5525faff.chunk.css"
   },
   {
-    "revision": "9b2f4e722376a0255fa0",
-    "url": "/static/js/2.11d00f45.chunk.js"
+    "revision": "dad1d675b31f619e1dbd",
+    "url": "/static/js/2.6d7e784f.chunk.js"
   },
   {
     "revision": "8392ede6cadae463252ff2c08b5d3ce1",
-    "url": "/static/js/2.11d00f45.chunk.js.LICENSE"
+    "url": "/static/js/2.6d7e784f.chunk.js.LICENSE"
   },
   {
-    "revision": "0faa556edbae25717d08",
-    "url": "/static/js/main.12e49928.chunk.js"
+    "revision": "4dd9ac02e377cac69874",
+    "url": "/static/js/main.532a518b.chunk.js"
   },
   {
     "revision": "b7b15e04963421495769",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1180167a80afde56f9c48c7f51f06fa2",
     "url": "/static/media/penButtonFocus.1180167a.png"
+  },
+  {
+    "revision": "d9d5345dfff93c44d87821d99897778e",
+    "url": "/static/media/penelopeBanner.d9d5345d.png"
   },
   {
     "revision": "e900130ea45cb36aaa606ccacc704055",
